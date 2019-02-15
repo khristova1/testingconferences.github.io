@@ -339,6 +339,13 @@
   url: https://ministryoftesting.com/events/testbash-germany-2019?utm_source=testingconferences
   twitter: ministryoftest
   status: CFP is Closed
+  
+  - name: SEETEST 2019
+  location: Bucharest, Romania
+  dates: "September 26-27, 2019"
+  url: https://seetest.org/
+  twitter: SEETESTConf
+  status: Registration is open
 
 - name: STARWEST 2019
   location: Anaheim, CA, USA
